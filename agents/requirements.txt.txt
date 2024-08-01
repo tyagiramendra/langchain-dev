@@ -1,0 +1,5 @@
+arxiv
+wikipedia
+langchain-community
+faiss-cpu
+langchain-openai
